@@ -6,6 +6,12 @@
     margin: 6px 0px;
 }
 
+.item-image {
+  width: 300px; /* Adjust the width as needed */
+  height: 300px; /* Adjust the height as needed */
+  object-fit: cover;
+}
+
 .item-prices{
     display: flex;
     gap:20px;
